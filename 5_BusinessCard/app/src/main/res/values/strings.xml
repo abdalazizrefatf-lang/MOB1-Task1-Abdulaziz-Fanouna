@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+
+    <string name="full_name">Abdulaziz Fanouna</string>
+    <string name="job_title">Android Developer</string>
+    <string name="phone">+970 593 910 610</string>
+    <string name="social_handle">Android Developer - Backend Developer</string>
+    <string name="email">abdalazizrefat.f@gmail.com</string>
+</resources>
